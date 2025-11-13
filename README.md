@@ -34,12 +34,11 @@ Despite fierce competition from global blockbusters, _Demon Slayer: Infinity Cas
 
 ## 📊 Dashboard Screenshots
 
-All visualizations are stored in the `assets/` folder:
-
-- `assets/Home.png`
-- `assets/Box Office Impact 2025.png`
-- `assets/September.png`
-- `assets/October.png`
+**Dashboard Page**
+![Home Page](assets/Home.png)
+![September Page](assets/Box Office Impact 2025.png)
+![October Page](assets/September.png)
+![October Page](assets/October.png)
 
 These dashboards include:
 
