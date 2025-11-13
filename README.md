@@ -10,6 +10,11 @@ Inspired by the movie’s intensity and visual style, I created a dashboard that
 
 Using **GSAP animations**, I mirrored the transitions and pacing of the film, turning raw numbers into a scroll-driven experience that feels alive.
 
+### Dashboard File
+
+You can find the file for the dashboard here: [`Box Office Impact.pbix`](Box Office Impact.pbix).
+
+---
 ## 🌐 Live Demo
 
 - 🔗 Website: [https://infinitycastle.vercel.app](https://infinitycastle.vercel.app)
