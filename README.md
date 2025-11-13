@@ -39,10 +39,16 @@ Despite fierce competition from global blockbusters, _Demon Slayer: Infinity Cas
 
 ## 📊 Dashboard Screenshots
 
-**Dashboard Page**
+**Home Page**
 ![Home Page](assets/Home.png)
+
+**Box Office Impact 2025 Page**
 ![Box Office Impact 2025 Page](assets/Box_Office_Impact_2025.png)
+
+**September Page**
 ![September Page](assets/September.png)
+
+**October Page**
 ![October Page](assets/October.png)
 
 These dashboards include:
